@@ -1,4 +1,4 @@
-<h1>Hey, I'm Donovan, an aspiring <a href="www.linkedin.com/in/donovan-hamilton-49365128a">IT Professional</a>☺</h1>
+<h1>Hey, I'm Donovan, an aspiring <a href="www.linkedin.com/in/donovan-hamilton-49365128a">IT Professional!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
